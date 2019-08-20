@@ -1,7 +1,4 @@
-x = 'Apple '
-y = 'Orange '
-z = 'Lemon'
+x = 5
+y = 'Naif'
 
-Basket = x + y + z
-
-print(Basket)
+print(str(x),y)
